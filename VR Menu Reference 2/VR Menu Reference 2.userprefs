@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/VRStandardAssets/Scripts/GazeToActivateItem.cs">
+    <Files>
+      <File FileName="Assets/VRStandardAssets/Scripts/GazeToActivateItem.cs" Line="88" Column="2" />
+      <File FileName="Assets/VRSampleScenes/Scripts/Utils/SelectionSlider.cs" Line="72" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
